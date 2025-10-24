@@ -99,3 +99,4 @@ Commit date: 2025-10-11T09:37:24 +0530 - Message: minor refactor
 Commit date: 2025-10-12T09:20:51 +0530 - Message: cleanup whitespace
 Commit date: 2025-10-15T12:14:28 +0530 - Message: update tests
 Commit date: 2025-10-19T16:19:51 +0530 - Message: add comments
+Commit date: 2025-10-24T10:52:34 +0530 - Message: add docstring
