@@ -1,0 +1,26 @@
+[
+  {
+    "query": "What is the maximum fine for a GDPR violation?",
+    "expected": "20 000 000 || 4% || annual turnover"
+  },
+  {
+    "query": "What rights does a data subject have under GDPR?",
+    "expected": "erasure || access || rectification || portability"
+  },
+  {
+    "query": "What is the lawful basis for processing personal data?",
+    "expected": "consent || legitimate interests || legal obligation"
+  },
+  {
+    "query": "Where did Watson serve before coming to London?",
+    "expected": "Afghanistan || Afghan war || Fusiliers || Bombay"
+  },
+  {
+    "query": "What was the name of the cab driver in A Study in Scarlet?",
+    "expected": "Jefferson Hope"
+  },
+  {
+    "query": "How did Sherlock Holmes deduce that Watson was a military man?",
+    "expected": "tan || tanned || military || Afghanistan || bearing||military || army || war || Afghan || Fusiliers || Bombay || India"
+  }
+]

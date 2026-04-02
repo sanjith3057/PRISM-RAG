@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-groq
+chromadb
+sentence-transformers
+rank_bm25
+pypdf
+python-dotenv
+ragas               # for faithfulness evaluation (optional but recommended)
+datasets            # needed by ragas

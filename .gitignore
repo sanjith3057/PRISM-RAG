@@ -1,0 +1,18 @@
+# Python-generated files
+.env
+.venv/
+chroma_db/
+croma_db/
+data/
+__pycache__/
+*.pyc
+.ralphy/
+.qodo/
+.agent/
+test_pdf.py
+.python-version
+*.egg-info/
+.DS_Store
+.pytest_cache/
+dist/
+build/

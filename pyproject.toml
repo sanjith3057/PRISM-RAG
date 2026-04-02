@@ -1,0 +1,11 @@
+[project]
+name = "prism-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.12",
+    "langchain-community>=0.4.1",
+    "langchain-huggingface>=1.2.1",
+]
