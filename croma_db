@@ -1,7 +1,7 @@
 import chromadb
 
 client = chromadb.CloudClient(
-  api_key='ck-8L66hxNLSqD1qAcnGgd4bdP6FitHajzPedF15M11eakB',
+  api_key='',
   tenant='872107b0-55bd-4c26-a007-d698fa789a5d',
   database='Prism-rag'
 )
