@@ -3,6 +3,7 @@
 .venv/
 chroma_db/
 croma_db/
+croma_db
 data/
 __pycache__/
 *.pyc
